@@ -15,5 +15,6 @@ matplotlib
 `soccer`: Using high-level game data to perform analysis on goal differentials and goal scoring distributions. Feature engineering to aid in prediction of game outcome. Compute elo and dfl/massey ratings and predict soccer game outcome. Using detailed shot-level data to enhance models and improve game outcome predictions.
 
 
-[1]: https://www.baseballthinkfactory.org/fraser/articles/dips.htm
-
+## References
+<a id="1">[1]</a> 
+https://www.baseballthinkfactory.org/fraser/articles/dips.htm
